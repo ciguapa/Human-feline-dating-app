@@ -1,0 +1,29 @@
+html{ height: 100%; }
+
+body{ background: url(milada-vigerova-31708.jpg);
+	  background-size: cover;
+	  background-repeat: no-repeat;
+	  background-position: center;
+	  font-family: 'Lato', sans-serif;
+	  color: white;
+
+ }
+
+
+#content{
+	     text-align: center;
+	     padding-top: 25%;
+	     text-shadow: 2px 4px 3px rgba(0,0,0,0.4),
+	     			  0px 8px 6px rgba(0,0,0,0.1),
+	     			  0px 13px 9px rgba(0,0,0,0.1); 
+
+}
+
+h1{ font-weight: 700;
+    font-size: 5em; }
+
+hr{ width: 400px; 
+   ;
+   border-top: solid #f8f8f8 1px;
+   border-bottom: 1px solid rgba(4,0,0,0.2);
+   
